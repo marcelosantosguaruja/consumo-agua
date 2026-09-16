@@ -21,5 +21,15 @@ Neste momento ao informar a unidade de consumo em m3, o sistema retornará as de
 <div style="display: inline_block"><br>
  <img align="left" alt="Phyton" height="60" width="60"
 
-Ícones e badges representando as tecnologias (Python, GitHub, Energia, etc.).
-Usei emojis e badges do shields.io para deixar o projeto mais visual!
+<div style="display: inline_block"><br>
+ <img align="center" alt="Python" height="40" width="40"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+ <img align="center" alt="HTML" height="40" width="40"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+ <img align="center" alt="CSS" height="40" width="40"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+ <img align="center" alt="Java" height="40" width="40"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+ <img align="center" alt="Csharp" height="40" width="40"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
+</div> 
