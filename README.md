@@ -19,7 +19,7 @@ A continuidade do sistema, se dará apenas ao escolher H ou A para os imóveis r
 Neste momento ao informar a unidade de consumo em m3, o sistema retornará as devidas recomendações.
 
 <div style="display: inline_block"><br>
- <img align="center" alt="Python" height="60" width="60"
+ <img align="left" alt="Phyton" height="60" width="60"
 
 Ícones e badges representando as tecnologias (Python, GitHub, Energia, etc.).
 Usei emojis e badges do shields.io para deixar o projeto mais visual!
